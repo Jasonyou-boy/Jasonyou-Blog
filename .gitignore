@@ -1,0 +1,26 @@
+#Node
+/node_modules/
+
+#vitePress
+.vitepress/cache/
+.vitepress/dist/
+
+# 忽略日志文件
+*.log
+
+# 忽略构建输出目录
+dist/
+build/
+
+
+
+
+
+
+
+
+
+
+
+
+
